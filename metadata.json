@@ -1,0 +1,7 @@
+{
+  "name": "BeyondChats Articles",
+  "description": "A high-fidelity article preview platform showcasing original and AI-updated content versions with integrated Gemini assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
